@@ -4,7 +4,7 @@ import Features from "./components/Features";
 import Experience from "./components/Experience";
 import Footer from "./components/Footer";
 import CursorGlow from "./components/CursorGlow";
-import Video from "./components/video";
+import Video from "./components/Video";
 
 export default function App() {
   return (
