@@ -142,14 +142,5 @@ Inspired by modern AI product landing pages and premium UX design patterns.
 
 ⸻
 
-If you like this project, feel free to ⭐ star it and build on top of it!
 
----
 
-If you want, I can also:
-- Adjust this README for **college submission**
-- Make it **GitHub-optimized**
-- Add **screenshots section**
-- Add **deployment instructions (Vercel/Netlify)**
-
-Just tell me 👍
