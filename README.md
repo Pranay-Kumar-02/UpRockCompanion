@@ -1,7 +1,4 @@
-Nice 👌 — here’s a clean, professional README.md you can directly drop into your project root.
-It’s written like a real-world portfolio / college project README.
 
-⸻
 
 
 # Companion-Style Dynamic Frontend ✨
